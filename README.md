@@ -1,3 +1,5 @@
+> ⚠️ 현재 백엔드 서버 운영이 종료되어 네트워크 연동이 필요한 일부 기능은 실행되지 않습니다. ⚠️
+
 <img width="1433" alt="Image" src="https://github.com/user-attachments/assets/2aa6b80c-098e-4632-9fba-d9c54f977a80" />
 
 ## 🌿 Project Overview
